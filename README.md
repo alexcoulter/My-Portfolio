@@ -1,4 +1,4 @@
-# Alex Coulter's Portfolio
+# My Portfolio
 
 ### Description
 * This is a webpage that includes background information about me and highlights some of my coding acheivements and projects.  It also displays 
