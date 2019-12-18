@@ -141,23 +141,23 @@ color: white;
 padding:10px 0px 10px 0px;
 }
 
+
 .wrapper {
   min-height: 100%;
-  margin-bottom: -30px;
-  overflow:hidden;
+  margin-bottom:-70px;
+
+}
+.push {
+height: 70px;
 }
 
-.empty {
-height: 30px;
-}
+.footer  {
+  height:70px; 
+  background-color:#666666;
+  border-top: 8px solid #4aaaa5;
+  color:white;
+  padding-top:30px;
+  text-align: center;
+  width:100%;
 
-footer .container {
-    padding:30px; 
-    background-color:#666666;
-    border-top: 8px solid #4aaaa5;
-    color:white;
-   
-    text-align: center;
-    width:100%;
-    clear:both;
-} 
+}
