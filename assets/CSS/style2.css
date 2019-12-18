@@ -3,11 +3,13 @@ html {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   height: 100%;
+  overflow:scroll;
 }
 *, *:before, *:after {
   -webkit-box-sizing: inherit;
   -moz-box-sizing: inherit;
   box-sizing: inherit;
+  
  
   }
 
@@ -117,7 +119,6 @@ width: 34%;
 height:100%;
 position: relative;
 margin:20px;
-
 }
 
 .picContainer img {
@@ -126,6 +127,7 @@ width: 200px;
 height: 200px;
 display: flex;
 justify-content: center;
+
 
 }
 
